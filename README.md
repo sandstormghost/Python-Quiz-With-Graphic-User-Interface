@@ -3,8 +3,8 @@ Python provides a standard GUI framework Tkinter which is used to develop fast a
 
 import tkinter package to develope Graphic User Interface by installing tkinter 
 
-#pip install tkinter
+# pip install tkinter
 
 And install json package 
 
-#pip install json
+# pip install json
